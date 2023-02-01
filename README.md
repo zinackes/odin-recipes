@@ -1,2 +1,2 @@
 # odin-recipes
-Ce site internet est un des exercices Du Projet Odin, dans celui ci je vais y mettre des liens de recettes, ou il vous suffira juste de cliquer dessus afin d'y accéder. Le site est encore très basique cependant.
+Ce site internet est un des exercices Du Projet Odin, dans celui ci je vais y mettre des liens de recettes, ou il vous suffira juste de cliquer dessus afin d'y accéder. Le site est encore très basique cependant, avec comme css juste la police d'écriture changée.
